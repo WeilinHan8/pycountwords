@@ -10,12 +10,12 @@ $ pip install pycountwords
 
 ## Usage
 
-`pycounts` can be used to count words in a text file and plot results
+`pycountwords` can be used to count words in a text file and plot results
 as follows:
 
 ```python
-from pycounts.pycounts import count_words
-from pycounts.plotting import plot_words
+from pycountwords.pycountwords import count_words
+from pycountwords.plotting import plot_words
 import matplotlib.pyplot as plt
 
 file_path = "test.txt"  # path to your file
@@ -37,7 +37,7 @@ of the MIT license.
 
 ## Credits
 
-`pycounts` was created with 
+`pycountwords` was created with 
 [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and 
 the `py-pkgs-cookiecutter` 
 [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
