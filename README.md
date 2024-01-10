@@ -5,7 +5,7 @@ Calculate word counts in a text file!
 ## Installation
 
 ```bash
-$ pip install pycounts
+$ pip install pycountwords
 ```
 
 ## Usage
@@ -32,7 +32,7 @@ By contributing to this project, you agree to abide by its terms.
 
 ## License
 
-`pycounts` was created by Tomas Beuzen. It is licensed under the terms
+`pycounts` was created by Weilin Han. It is licensed under the terms
 of the MIT license.
 
 ## Credits
