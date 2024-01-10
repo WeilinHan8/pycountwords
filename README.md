@@ -1,4 +1,4 @@
-# pycounts
+# pycountwords
 
 Calculate word counts in a text file!
 
@@ -32,7 +32,7 @@ By contributing to this project, you agree to abide by its terms.
 
 ## License
 
-`pycounts` was created by Weilin Han. It is licensed under the terms
+`pycountwords` was created by Weilin Han. It is licensed under the terms
 of the MIT license.
 
 ## Credits
